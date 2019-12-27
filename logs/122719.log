@@ -1,0 +1,339 @@
+[27-Dec-2019 13:01:41 America/New_York] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:41 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:42 America/New_York] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:42 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:42 America/New_York] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:42 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:42 America/New_York] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:01:42 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:07:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fivempa2_fmap'@'localhost' to database 'fivempa2_fmap' in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:07:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fivempa2_fmap'@'localhost' to database 'fivempa2_fmap' in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:07:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fivempa2_fmap'@'localhost' to database 'fivempa2_fmap' in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:08:28 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fivempa2_fmap'@'localhost' to database 'fivempa2_fmap' in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:08:28 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fivempa2_fmap'@'localhost' to database 'fivempa2_fmap' in /home/fivempa2/public_html/index.php on line 32
+[27-Dec-2019 13:09:34 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:09:34 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:10:42 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:10:42 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:12:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:12:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:13:16 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:13:16 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:14:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:14:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:37:08 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:37:09 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:37:31 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:37:31 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:37:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:37:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:38:31 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:38:32 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:46:26 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:46:26 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:47:13 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:47:13 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:47:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:47:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:47:58 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:47:58 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:49:34 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:49:34 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:50:25 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:50:25 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:50:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:50:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:50:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:50:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:50:48 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:50:48 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:50:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:50:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:54:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:54:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:58:05 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:58:06 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 13:59:52 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 13:59:53 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:03:05 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:03:05 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:03:53 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:03:53 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:07:53 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:07:53 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:07:58 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:07:58 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:09:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:09:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:09:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:09:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:09:32 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:09:32 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:09:35 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:09:36 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:09 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:09 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:20 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:20 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:29 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:29 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:41 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:41 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:43 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:43 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:46 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:46 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:14:56 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:14:56 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:15:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:15:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:15:24 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:15:24 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:15:45 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:15:45 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:15:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:15:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:04 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:04 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:05 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:05 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:16 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:16 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:18 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:18 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:19 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:19 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:19 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:20 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:16:26 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:16:26 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:17:04 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:17:05 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:17:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:17:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:17:24 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:17:24 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:17:35 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:17:35 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:17:44 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:17:44 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:18:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:18:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:20:25 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:20:26 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:20:32 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:20:33 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:20:51 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:20:51 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:20:57 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:20:58 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:30:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:30:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:30:24 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:30:24 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:31:49 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:31:49 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:33:33 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:33:34 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:33:34 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:36:35 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:36:36 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:37:01 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:37:02 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:37:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:37:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:37:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:37:23 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:37:40 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:37:41 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:39:43 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:39:43 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:41:22 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:41:22 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:52:32 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:52:32 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 14:56:50 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 14:56:50 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:03:30 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:03:31 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:03:56 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:03:56 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:05:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:05:55 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:09:15 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:09:16 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:18:51 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:18:51 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:22:10 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:22:10 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:35:42 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:35:42 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
+[27-Dec-2019 15:36:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/version.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 92
+[27-Dec-2019 15:36:38 America/New_York] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/CADOJRP/FiveM-AdministrationPanel/master/updates): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fivempa2/public_html/app/pages/dashboard.php on line 102
